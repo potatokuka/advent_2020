@@ -1,3 +1,5 @@
+# numbers in a file, find which add two 2020 and then multiply them to find answer
+
 inpFile = open('numbers.txt', 'r')
 lines = inpFile.readlines()
 lines = sorted(lines)
